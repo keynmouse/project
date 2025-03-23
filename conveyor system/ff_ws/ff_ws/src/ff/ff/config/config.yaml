@@ -1,0 +1,29 @@
+conveyor_settings:
+  default_speed: 50
+  maximum_speed: 100
+  minimum_speed: 10
+data_collection:
+  auto_save_interval: 300
+  save_path: /home/shyun/ff_ws/build/ff/ff/data/collected_data
+email_settings:
+  recipients:
+  - admin@example.com
+  sender: robot.system@example.com
+  smtp_password: ''
+  smtp_port: 587
+  smtp_server: smtp.example.com
+  smtp_username: ''
+robot_settings:
+  camera_compression_quality: 60
+  emergency_stop_timeout: 5.0
+  status_update_interval: 1.0
+tasks:
+  available_tasks:
+  - pick_and_place
+  - assembly
+  - inspection
+  default_task: pick_and_place
+yolo_settings:
+  confidence_threshold: 0.5
+  detection_image_path: /home/shyun/ff_ws/build/ff/ff/data/detection_images
+  save_detection_images: true

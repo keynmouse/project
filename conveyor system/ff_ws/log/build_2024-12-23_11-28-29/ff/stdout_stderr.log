@@ -1,0 +1,27 @@
+running develop
+running egg_info
+creating ff.egg-info
+writing ff.egg-info/PKG-INFO
+writing dependency_links to ff.egg-info/dependency_links.txt
+writing entry points to ff.egg-info/entry_points.txt
+writing requirements to ff.egg-info/requires.txt
+writing top-level names to ff.egg-info/top_level.txt
+writing manifest file 'ff.egg-info/SOURCES.txt'
+reading manifest file 'ff.egg-info/SOURCES.txt'
+writing manifest file 'ff.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/keynmouse/ff_ws/install/ff/lib/python3.10/site-packages/ff.egg-link (link to .)
+Installing conveyor script to /home/keynmouse/ff_ws/install/ff/lib/ff
+Installing global_camera script to /home/keynmouse/ff_ws/install/ff/lib/ff
+Installing gui script to /home/keynmouse/ff_ws/install/ff/lib/ff
+Installing login_test script to /home/keynmouse/ff_ws/install/ff/lib/ff
+Installing robot script to /home/keynmouse/ff_ws/install/ff/lib/ff
+Installing robot_camera script to /home/keynmouse/ff_ws/install/ff/lib/ff
+
+Installed /home/keynmouse/ff_ws/build/ff
+running symlink_data
+creating /home/keynmouse/ff_ws/install/ff/share/ament_index
+creating /home/keynmouse/ff_ws/install/ff/share/ament_index/resource_index
+creating /home/keynmouse/ff_ws/install/ff/share/ament_index/resource_index/packages
+symbolically linking /home/keynmouse/ff_ws/build/ff/resource/ff -> /home/keynmouse/ff_ws/install/ff/share/ament_index/resource_index/packages
+symbolically linking /home/keynmouse/ff_ws/build/ff/package.xml -> /home/keynmouse/ff_ws/install/ff/share/ff

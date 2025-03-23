@@ -1,0 +1,8 @@
+[console_scripts]
+conveyor = ff.conveyor_node:main
+global_camera = ff.global_camera_node:main
+gui = ff.gui_node:main
+login_test = ff.login_test:main
+robot = ff.robot_node:main
+robot_camera = ff.robot_camera_node:main
+
